@@ -8,7 +8,7 @@
 
 ## Introduction
 
-**Charlie-Kirkification** is a CV productivity enforcer inspired by the *kirkification* trend on TikTok. Designed for laptop-based work only.  
+**Charlie-Kirkification** is a CV productivity tool inspired by the **kirkification** trend on **TikTok**. Designed for laptop-based work only.  
 
 Using your webcam, the program tracks your eye and iris movement in real time to detect when you’re looking down at your phone (aka doomscrolling).
 
@@ -85,7 +85,7 @@ Feel free to contribtue to improve this tool
 
 ---
 
-Lock in and have fun.
+Lock in and have fun 💪
 
 
 
